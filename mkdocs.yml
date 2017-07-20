@@ -1,0 +1,10 @@
+site_name: LIVERA Documentation v0.9
+
+pages:
+    - Document: index.md
+    - API Guide: api.md
+    - Robot Assembily Guide: robotAssemGuide.md
+    # - 中文: LiveraDocChinese.md
+
+theme: cinder
+# theme: readthedocs

@@ -4,6 +4,16 @@
 
 Like the picture shows, the Livera Robot kit ccomes with several conponents that you need you assemble and make it to a fully functional robot. This toturial would get you through all the process of `physical building and wiring,` it might take around `25 minutes` to make the robot alive. Clear up your desk, unpack the Robot kit and let begin the journey.
 
+#### __Video Tutorial__
+We've also created a video toturial to give you a more detailed, much clear step by step toturial, would help you with:
+
+- Pyhsical Assembly
+- Webapp Guide
+
+<pre>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Evkkf7BJYWA" frameborder="0" allowfullscreen></iframe>
+</pre>
+
 #### __Step 1: Base panel build__
 
 ![Image](img/robotAssemGuide/robotAssem2.jpg)

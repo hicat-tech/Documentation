@@ -210,7 +210,25 @@ Livera Motor Driver can power up `4 DC motors` and `3 Servo Motors`, with extern
 
 Like the picture shows, the Livera Robot kit ccomes with several conponents that you need you assemble and make it to a fully functional robot. This toturial would get you through all the process of `physical building and wiring,` it might take around `25 minutes` to make the robot alive. Clear up your desk, unpack the Robot kit and let begin the journey.
 
-#### __Video Tutorial__
+__Parts list__
+
+![Image](/img/robotAssemGuide/robotunbox.jpg)
+![Image](/img/robotAssemGuide/partlists.jpg)
+
+The Livera Robot kit comes with following parts:
+
+- __Boards:__ HICAT.Livera Boardx1 Livera Motor Driver Boardx1
+- __Camera:__ Livera Camera Extend Cablex1 Livera Camera Modulex1
+- __Storage:__2G SD Card with firmware built in
+- __Guidebook:__ Livera GuideBookx1 Livera Robot Assembly GuideBookx1
+- __Power:__ 9V Lipo Battery and Bat Carrier
+- __Motor:__ E-MAX SERVOx1 DC Gear Motor set(Motor + Motor Carrier + Wheels)x2
+- __Structure bits:__ Robot Base Acrylic Panels set, Omni-directional Wheel Set 
+- __Screws:__ M2x15(+6)mm Nylon Studx4, M2x6mm Nylon Studx4, M2x6(+6)mm Nylon Studx8, M2x10(+6)mm Nylon Studx8, M2 Nylon Nutx4 
+- __OUTPUT:__ LASER Beanx1
+- __Accessories:__ Stickersx1, USB Cablex1, Screwdriver(+,-)x1
+
+__Video Tutorial__
 We've also created a video toturial to give you a more detailed, much clear step by step toturial, would help you with:
 
 - Pyhsical Assembly

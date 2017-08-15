@@ -178,6 +178,8 @@ Livera's given I/O port has connected into `MCU(Atmel 32u4)`, and the pin layout
 
 We've also placed a mpu6050 6-axie accelerometer on Livera, this would help in case of self-balance vehicle, there is 3 I/O port been connected MCU(32u4), there are I2C(D2:SDA,D3:SCL) and interrupt(D7)
 
+__Design file:__ The Robot kit's Laser cut Acrylic CAD file contains the `dimensions of LIVERA`, you could use it to build your custom case for Livera. Links [here](https://github.com/hicat-tech/Livera-Design-file/tree/master/livera%20robot%20laser%20cut%20sourcefile).
+
 __Livera Hardware Architecture:__
 ![Image](/img/LiveraHwArchi001.jpg)
 __Arduino(MCU) I/O Pin Indicate:__
@@ -228,7 +230,7 @@ The Livera Robot kit comes with following parts:
 - __OUTPUT:__ LASER Beanx1
 - __Accessories:__ Stickersx1, USB Cablex1, Screwdriver(+,-)x1
 
-__Video Tutorial__
+https://www.discourse.org/__Video Tutorial__
 We've also created a video toturial to give you a more detailed, much clear step by step toturial, would help you with:
 
 - Pyhsical Assembly
@@ -237,6 +239,8 @@ We've also created a video toturial to give you a more detailed, much clear step
 <pre>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Evkkf7BJYWA" frameborder="0" allowfullscreen></iframe>
 </pre>
+
+__Design file:__ The Robot kit's Laser cut Acrylic CAD file contains the `dimensions of LIVERA`, you could use it to build your custom case for Livera. Links [here](https://github.com/hicat-tech/Livera-Design-file/tree/master/livera%20robot%20laser%20cut%20sourcefile).
 
 __Step 1: Base panel build__
 
@@ -336,7 +340,7 @@ Livera frimware is basically embedded Linux shell script with some executable pr
 
 #### <font size=40>__Android__</font>
 
-We've provided a custom android app for Livera, you could download it on our github page: [https://github.com/hicat-tech/livera-android](https://github.com/hicat-tech/livera-android), the APP could help you liveview video, control robots, and access to livera's web app.
+We've provided a custom android app for Livera, you could download it on our github page: [https://github.com/hicat-tech/livera-android](https://github.com/hicat-tech/hicat-android), the APP could help you liveview video, control robots, and access to livera's web app.
 
 Do not forget the turn the livera into `RTSP(H264) Mode` before open the liveview and robot function.
 
